@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer, util
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
-import joblib
+# import joblib
 
 
 def calculate_semantic_similarity(reference, student):
