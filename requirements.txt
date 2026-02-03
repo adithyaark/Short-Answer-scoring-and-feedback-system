@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+torch
+pandas
+requests
+PyMuPDF
+pillow
+pytesseract
