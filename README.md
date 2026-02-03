@@ -29,7 +29,15 @@ The application is built using **Python and Streamlit**.
 - **Virtual Environment (venv)** – Dependency isolation
 
 ---
+## User Interface
+
+
 <img width="1919" height="982" alt="Screenshot 2026-02-03 225808" src="https://github.com/user-attachments/assets/de008a19-1350-4e48-98b1-e0da6c1f47e6" />
-![Uploading Screenshot 2026-02-03 225837.png…]()
+
+---
+
+
+<img width="1912" height="989" alt="Screenshot 2026-02-03 225837" src="https://github.com/user-attachments/assets/e82294f6-e96b-4666-800c-895104128f4f" />
+
 
 
